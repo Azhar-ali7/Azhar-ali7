@@ -1,5 +1,3 @@
-# Azhar-ali7-/README.md
-
     👋 Hi, I’m Azhar Ali
 
     👀 I’m interested in Data Analytics, Machine learning & Deep Learning.
