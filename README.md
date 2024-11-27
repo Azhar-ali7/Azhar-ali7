@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Azhar Ali</h1>
-<h3 align="center">I’m interested in Data Analytics, Machine learning & Deep Learning.</h3>
+<h3 align="center">I’m interested in Data Science, Machine learning & Deep Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azhar-ali7&label=Profile%20views&color=0e75b6&style=flat" alt="azhar-ali7" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ali_azhar7" target="blank"><img src="https://img.shields.io/twitter/follow/ali_azhar7?logo=twitter&style=for-the-badge" alt="ali_azhar7" /></a> </p>
 
-- 🌱 I’m currently learning **tools to become Data Scientist.**
+- 🌱 I’m currently working as a Data Scientist.**
 
 - 👯 I’m looking to collaborate on **with anyone regarding Data Science.**
 
