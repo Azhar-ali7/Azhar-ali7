@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ali_azhar7" target="blank"><img src="https://img.shields.io/twitter/follow/ali_azhar7?logo=twitter&style=for-the-badge" alt="ali_azhar7" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Data science project with anyone.**
+- 👯 I’m looking to collaborate on **Data science projects.**
 
 - 📝 I regularly write articles on [https://medium.com/@aliazhar007007](https://medium.com/@aliazhar007007)
 
